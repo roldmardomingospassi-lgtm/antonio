@@ -1,0 +1,7 @@
+{
+  "name": "Sabores de África",
+  "description": "Uma plataforma culinária premium que celebra a diversidade e riqueza da gastronomia africana, oferecendo receitas exclusivas, histórias culturais e integração com conteúdos do Google e YouTube.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
